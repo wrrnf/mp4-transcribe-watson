@@ -1,0 +1,680 @@
+                                                                  {
+   "results": [
+      {
+         "alternatives": [
+            {
+               "confidence": 0.807, 
+               "transcript": "hi I'm Jody sort of area for Amazon web services training and certification "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "confidence": 0.904, 
+               "transcript": "today I'll be giving you a brief overview of the aid of US security compliance programs "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "confidence": 0.883, 
+               "transcript": "as with everything in it was on the success of our security and compliance program is primarily measured by one thing our customers success "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "confidence": 0.864, 
+               "transcript": "our customers drive our portfolio of compliance reports attestations and certifications that support their efforts and running is secure and compliant cloud environment "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "confidence": 0.894, 
+               "transcript": "you can take advantage of this effort to achieve the savings and security at scale the a WS offers while still maintaining robust security and regulatory compliance "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "confidence": 0.82, 
+               "transcript": "in this module I'll be discussing it addresses compliance approach which includes insurance programs "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "confidence": 0.863, 
+               "transcript": "a WSYR points programs such as risk management control environment and information security "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "confidence": 0.916, 
+               "transcript": "and finally I'll wrap up with a double espresso compliance responsibilities "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "confidence": 0.852, 
+               "transcript": "and it's your responsibility model eight of the US and its customers share control over securing the IT environment "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "confidence": 0.886, 
+               "transcript": "it WS is part in this your responsibility model include providing its services on a highly secure and control platform and providing a wide array of security features customers can use "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "confidence": 0.872, 
+               "transcript": "the customer's responsibility includes configuring their IT environments in a secure and controlled manner for their purposes "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "confidence": 0.751, 
+               "transcript": "while customers don't communicate they're using configurations a WS interview as does communicated security and control environment relevant to customers "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "confidence": 0.983, 
+               "transcript": "it does this by doing the following "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "confidence": 0.87, 
+               "transcript": "obtaining industry certifications an independent third party attestations "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "confidence": 0.874, 
+               "transcript": "publishing information about the W. security and control practices in white papers and website content "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "confidence": 0.968, 
+               "transcript": "providing certificates reports and other documentation directly to a WS customers under NDA as required "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "confidence": 0.881, 
+               "transcript": "it engages with external certifying bodies an independent auditors to provide customers with considerable information regarding the policies prophecies and controls established and operated by a WS "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "confidence": 0.841, 
+               "transcript": "compliance certifications and attestations are assessed by a third party independent auditor and result in a certification audit report or a test ation of compliance "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "confidence": 0.876, 
+               "transcript": "a WS remain responsible for complying with applicables compliance laws and regulations in some cases it WS offers functionalities such as security features enablers and legal agreements such as the NWS data processing agreement and business associate addendum to support customer compliance "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "confidence": 0.872, 
+               "transcript": "compliance alignments and frameworks include published security or compliance requirements for a specific purpose "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "confidence": 0.958, 
+               "transcript": "such as a specific industry or function "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "confidence": 0.863, 
+               "transcript": "it appears provides functionality such as security features and the neighbors including compliance playbooks mapping documents and white papers for these types of programs "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "confidence": 0.948, 
+               "transcript": "it provides information about its risk and compliance program to enable customers to incorporate a double especial internet governance framework "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "confidence": 0.88, 
+               "transcript": "this information can assist customers in documenting a complete control and governance framework with EW es included as an important part of that framework "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "confidence": 0.811, 
+               "transcript": "the NWS risk and compliance program is made up of three components "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "confidence": 0.842, 
+               "transcript": "risk management control environment information security let's take a look at each of the eight W. asked resting compliance programs in more detail "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "confidence": 0.857, 
+               "transcript": "NWS management has developed a strategic business plan which includes rested on vacation and the implementation of controls to mitigate or manage risks "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "confidence": 0.844, 
+               "transcript": "eight in the west management re evaluates the strategic business plan at least bi annually "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "confidence": 0.856, 
+               "transcript": "this process requires management to identify rests within its air is a responsibility and to implement appropriate measures designed to address those risks "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "confidence": 0.87, 
+               "transcript": "in addition the NWS control environment is subject to various internal and external risk assessments "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "confidence": 0.914, 
+               "transcript": "the NWS compliance is security teams have established information security framework and policies based on the following governing bodies "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "confidence": 0.886, 
+               "transcript": "control objectives for information and related technology "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "confidence": 0.999, 
+               "transcript": "American institute of certified public accountants "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "confidence": 0.999, 
+               "transcript": "National Institute of standards and technology "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "confidence": 0.777, 
+               "transcript": "it'll be less maintains a security policy provide security training to employees and reforms application security reviews "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "confidence": 0.932, 
+               "transcript": "these reviews assessed the confidentiality integrity and availability of data as well as conformance the information security policy "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "confidence": 0.781, 
+               "transcript": "eight of US acuity regularly scans all internet facing service and point IP addresses for vulnerabilities scans are not performing customer easy to instant interfaces "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "confidence": 0.865, 
+               "transcript": "a WSF Yuri notify the appropriate parties to remediate any identified vulnerabilities "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "confidence": 0.9, 
+               "transcript": "in addition external vulnerability threat assessments are performed regularly by independent security forms "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "confidence": 0.888, 
+               "transcript": "findings and recommendations resulting from these assessments are categorized and deliver to each other that's leadership these scans are done in a manner for the health and viability of the underlying EWS infrastructure and are not meant to replace the customer's own vulnerability scans required to meet their specific compliance requirements "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "confidence": 0.901, 
+               "transcript": "customers can request permission to conduct scans of their cloud infrastructure as long as they are limited to the customers instances and do not violate the a WS acceptable use policy "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "confidence": 0.785, 
+               "transcript": "it'll be less manages a comprehensive control environment that includes policies prophecies and control activities that leverage various aspects of Amazons overall control environment "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "confidence": 0.976, 
+               "transcript": "this control environment is in place for the secure delivery of a WSS service offerings "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "confidence": 0.895, 
+               "transcript": "the collective control environment encompasses the people process these and technology necessary to establish and maintain an environment that supports the operating effectiveness available yeses control framework "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "confidence": 0.869, 
+               "transcript": "eight WSS integrated applicables cloud specific controls identified by leading cloud computing industry bodies into the a WS control framework "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "confidence": 0.868, 
+               "transcript": "eight of you asking ten used to monitor these industry groups for ideas on which leading practices can be implemented to better assist customers were managing their control environment "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "confidence": 0.946, 
+               "transcript": "A. WSS implemented a formal information security program designed to protect the confidentiality integrity and availability of customer systems and data "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "confidence": 0.735, 
+               "transcript": "eight of US publishes a security white paper that is available on the public web site that addresses how a W. asking help customers secure their data "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "confidence": 0.946, 
+               "transcript": "let's look at the available resources online "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "confidence": 0.865, 
+               "transcript": "first will navigate to eat every last on Amazon dot com slash compliance "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "confidence": 0.988, 
+               "transcript": "this is where you'll find resources for the topics we've been covering "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "confidence": 0.926, 
+               "transcript": "for example if we click on insurance programs "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "confidence": 0.999, 
+               "transcript": "you'll see a list of the programs available "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "confidence": 0.981, 
+               "transcript": "let's click on United States "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "confidence": 0.798, 
+               "transcript": "then scroll down and click on have bar "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "confidence": 0.935, 
+               "transcript": "as we scroll through the page there is a lot of information here for you to discover "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "confidence": 0.739, 
+               "transcript": "towards the top of the page of the HIPAA focus white paper "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "confidence": 0.788, 
+               "transcript": "when we click on that we are presented with a detailed PDF "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "confidence": 0.935, 
+               "transcript": "the title of this document says it all architecting for help the security and compliance on Amazon web services "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "confidence": 0.842, 
+               "transcript": "scrolling further down to the table of contents "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "confidence": 0.94, 
+               "transcript": "you can see that it covers HIPAA compliance information for all the services listed here similar information can be found for other assurance programs listed on this site "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "confidence": 0.938, 
+               "transcript": "as always a WS customers are required to continue to maintain adequate governance over the entire IT control environment regardless of how it is deployed "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "confidence": 0.9, 
+               "transcript": "leading practices including understanding of required compliance objectives and requirements from relevant sources "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "confidence": 0.923, 
+               "transcript": "establishment of a controlled environment that meets those objectives and requirements an understanding of the validation required based on the organization's risk tolerance and verification of the operating effectiveness of their control environment "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "confidence": 0.758, 
+               "transcript": "deployed in a double Escott gives enterprises different options to apply various types of controls and various verification methods "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "confidence": 0.905, 
+               "transcript": "strong customer compliance and governance might include the following basic approach "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "confidence": 0.906, 
+               "transcript": "review information available for a WSTK either with other information to understand as much of the entire IT environment as possible and then document all compliance requirements "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "confidence": 0.953, 
+               "transcript": "design and implement control objectives to meet the enterprise compliance requirements "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "confidence": 0.919, 
+               "transcript": "identify and document controls owned by outside parties "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "confidence": 0.919, 
+               "transcript": "verify that all control objectives are met in all key controls are designed and operating effectively "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "confidence": 0.881, 
+               "transcript": "by staying engaged in the compliance and governance process with a W. S. customers can ensure compliance requirements are being that "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "confidence": 0.812, 
+               "transcript": "Amazon web services cloud compliance enables customers to understand the robust controls in place today W. **** to maintain security and data protection in the cloud "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "confidence": 0.931, 
+               "transcript": "as systems are built on top of a WYSIWYG archer complies responsibilities will be shared "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "confidence": 0.896, 
+               "transcript": "eight of US compliance enablers build on traditional programs helping customers to establish and operate in a WSC Cordy control environment "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "confidence": 0.78, 
+               "transcript": "for Amazon web services training and certification I'm Jodie's word Afaria "
+            }
+         ], 
+         "final": true
+      }
+   ], 
+   "result_index": 0
+}
